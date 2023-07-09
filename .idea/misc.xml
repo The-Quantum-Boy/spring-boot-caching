@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/LibraryApplication/pom.xml" />
         <option value="$PROJECT_DIR$/EhCache/pom.xml" />
+        <option value="$PROJECT_DIR$/RedisCache/pom.xml" />
       </list>
     </option>
   </component>

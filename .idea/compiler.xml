@@ -7,15 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="EhCache" />
         <module name="LibraryApplication" />
+        <module name="RedisCache" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EhCache" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="EhCache" options="-parameters" />
       <module name="LibraryApplication" options="-parameters" />
+      <module name="RedisCache" options="-parameters" />
     </option>
   </component>
 </project>

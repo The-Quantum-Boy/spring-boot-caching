@@ -15,7 +15,6 @@ public class CacheConfiguration {
             public void customize(ConcurrentMapCacheManager cacheManager) {
                 cacheManager.setAllowNullValues(false);
                 cacheManager.setStoreByValue(true);
-                System.out.println("CacheConfiguration.customize");
             }
         };
     }
