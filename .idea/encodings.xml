@@ -5,5 +5,7 @@
     <file url="file://$PROJECT_DIR$/LibraryApplication/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RedisCache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RedisCache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDataRedis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springDataRedis/src/main/resources" charset="UTF-8" />
   </component>
 </project>
